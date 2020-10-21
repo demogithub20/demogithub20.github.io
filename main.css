@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-image: url(images/coffee-beans.jpg);
+}
+header h1{
+	color: white;
+	padding-left: 30px;
+		
+}
+nav{
+	background-color: antiquewhite;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+}
+aside{
+	float: right;
+	width: 30%;
+	background-color: antiquewhite;
+	padding: 50px;
+}
+.lycaphe{
+	width: 70%;
+}
+.caphe{
+	float: left;
+}
